@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <code>* [Smart India Hackathon 2020](https://www.sih.gov.in/) [Grand - Finalist]</code>      
 <code>* [IIIT Allahabad](https://www.iiita.ac.in/) [Summer Research Intern]</code>  -->    
 
-## Stack I am comfortable with::rocket:
+<!--## Stack I am comfortable with::rocket:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>-->
 
 
 <!--### What are my featured projects:question::rocket:
